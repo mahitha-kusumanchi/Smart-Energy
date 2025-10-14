@@ -78,10 +78,10 @@ Create a system that:
 
 **Project by**
 
-*CB.SC.U4CSE23023 - G Jahnavi
-*CB.SC.U4CSE23024 - G Eshwarnath
-*CB.SC.U4CSE23034 - K P N L K Mahitha
-*CB.SC.U4CSE23061 - G Nithya
+* CB.SC.U4CSE23023 - G Jahnavi
+* CB.SC.U4CSE23024 - G Eshwarnath
+* CB.SC.U4CSE23034 - K P N L K Mahitha
+* CB.SC.U4CSE23061 - G Nithya
 
 **23CSE304 Embedded Systems**
 
