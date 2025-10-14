@@ -41,6 +41,7 @@ Create a system that:
 * **Current Sensor (ACS712 - Hall Effect)**: Measures current flowing through the AC line.
 * **Voltage Sensor (ZMPT101B)**: Detects AC voltage levels.
 * **LCD Display (16\*2 - Parallel)**: Displays real-time values of AC voltage.
+* **Energy Meter IC**: Ensures accurate energy measurements.
 * **LED**: For visual power alerts.
 * **ST-Link**: For programming and debugging.
 * **Breadboard and Connecting Wires**: For circuit setup and prototyping.
@@ -77,19 +78,15 @@ Create a system that:
 
 **Project by**
 
-CB.EN.U4CSE22430 PRIYADARSHINI RAJESH
-CB.EN.U4CSE22432 PRAHALYAA A
-CB.EN.U4CSE22431 TRISHIKA REDDY
-CB.EN.U4CSE22441 INDIRA SATYA SAI
+*CB.SC.U4CSE23023 - G Jahnavi
+*CB.SC.U4CSE23024 - G Eshwarnath
+*CB.SC.U4CSE23034 - K P N L K Mahitha
+*CB.SC.U4CSE23061 - G Nithya
 
-**19CSE303 Embedded Systems**
+**23CSE304 Embedded Systems**
 
 **Department of Computer Science and Engineering**
 
 **Amrita School of Computing**
 
 **Amrita Vishwa Vidyapeetham, Coimbatore, India**
-
-## License
-
-This project is open-source and available for use under the [MIT License](https://github.com/PRAHALYAA2004/SMART-ENERGY-METER/blob/main/LICENSE).
