@@ -41,7 +41,6 @@ Create a system that:
 * **Current Sensor (ACS712 - Hall Effect)**: Measures current flowing through the AC line.
 * **Voltage Sensor (ZMPT101B)**: Detects AC voltage levels.
 * **LCD Display (16\*2 - Parallel)**: Displays real-time values of AC voltage.
-* **Energy Meter IC**: Ensures accurate energy measurements.
 * **LED**: For visual power alerts.
 * **ST-Link**: For programming and debugging.
 * **Breadboard and Connecting Wires**: For circuit setup and prototyping.
