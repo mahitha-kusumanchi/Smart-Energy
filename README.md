@@ -52,7 +52,8 @@ Create a system that:
 ## Circuit Design
 
 ## Circuit Design
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/images/circuit.png)
+
 
 ## Setup and Usage
 
