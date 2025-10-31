@@ -51,7 +51,7 @@ Create a system that:
 
 
 ## Circuit Design
-![Circuit Diagram](https://raw.githubusercontent.com/mahitha-kusumanchi/Smart-Energy/main/images/circuit.png)
+![Circuit Diagram](https://raw.githubusercontent.com/mahitha-kusumanchi/Smart-Energy/main/images/circuit_diagram.png)
 
 
 ## Setup and Usage
