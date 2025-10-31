@@ -49,7 +49,6 @@ Create a system that:
 
 * **STM32CubeIDE**: Development environment for STM32.
 
-## Circuit Design
 
 ## Circuit Design
 ![Circuit Diagram](https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/images/circuit.png)
